@@ -1,41 +1,40 @@
-# 👋 Olá! Eu sou o Thiago Lanzarin
+# 👋 Hi there! I'm Thiago Lanzarin
 
-🎓 Estudante de **Sistemas de Informação** na Unimater  
-💼 Suporte Júnior em IA Generativa na Fortics  
-💡 Entusiasta de tecnologia, programação e automações  
-🖥️ Experiência com infraestrutura de TI e redes (Himix)  
-🌐 Explorando o universo do desenvolvimento e da IA  
-
----
-
-## 💻 Tecnologias e Ferramentas
-
-- Linguagens: `HTML`, `CSS`, `JavaScript`, `Java` (básico)
-- Estudando: `Python`, `JavaScript`, `React`, `Node.js`
-- Ferramentas: `Git`, `VS Code`
-- Infraestrutura: Suporte a redes, manutenção, microinformática, atendimento técnico
+🎓 Information Systems student at **Unimater**  
+💼 Junior Support Analyst in Generative AI at **Fortics**  
+💡 Passionate about technology, programming, and automation  
+🖥️ Experience with IT infrastructure and networking (Himix)  
+🌐 Exploring the world of software development and generative AI  
 
 ---
 
-## 🎯 Objetivo
+## 💻 Technologies & Tools
 
-Atualmente estou focado em migrar de suporte técnico para **desenvolvimento de software**, principalmente **frontend** e **aplicações web com IA generativa**.
-
----
-
-## 🚀 Projetos e Estudos
-
-- Cursos na **Alura** em andamento  
-- Projetos de faculdade com foco em interfaces e experiência do usuário  
-- Exploração de ferramentas no-code/low-code para construção de UIs  
+- Languages: `HTML`, `CSS`, `JavaScript`, `Java` (basic)
+- Currently Learning: `Python`, `JavaScript`, `React`, `Node.js`
+- Tools: `Git`, `VS Code`
+- IT Infrastructure: Network support, maintenance, microinformatics, technical assistance
 
 ---
 
-## 📫 Contato
+## 🎯 Goals
+
+I'm currently focused on transitioning from technical support to **software development**, with an emphasis on **frontend** and **web applications using generative AI**.
+
+---
+
+## 🚀 Projects & Learning
+
+- Ongoing courses on **Alura**  
+- University projects focused on UI and user experience  
+- Exploring no-code/low-code tools to build UIs  
+
+---
+
+## 📫 Contact
 
 - 📧 thiago.lanzarin28@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/thiago-lanzarin-630512284)  
 - 🌍 [GitHub](https://github.com/ThiagoLanzarin/ThiagoLanzarin)
 
 ---
-
