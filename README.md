@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Thiago Lanzarin
 
 🎓 Information Systems student at **Unimater**  
-💼 Junior Support Analyst in Generative AI at **Fortics**  
+💼 Developer full stack at **Fortics**  
 💡 Passionate about technology, programming, and automation  
 🖥️ Experience with IT infrastructure and networking (Himix)  
 🌐 Exploring the world of software development and generative AI  
